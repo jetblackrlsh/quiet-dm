@@ -1,0 +1,96 @@
+# The Seed Vault
+
+A life, lived in Quiet DM. See LIFE.md.
+
+Character: Nova — Tending +2, Mending +1, Listening +1, Nerve +0
+
+[DM] I am a quiet dungeon master. Write your story here as long messages, and I will stay silent. When you want an answer, ask whether your character succeeds and I will consult the oracle. Sometimes the oracle refuses to decide, and then we roll for it. You may also ask me plain yes-or-no questions, ask how many of a thing there are, request inspiration, and, after a success, ask for a blessing.
+
+You: Day 1. I arrived in Alderhollow with one bag, a key I had never used, and a letter appointing me keeper of the seed vault, which is a grand name for a stone room behind the mill where the village keeps next year's planting against hunger. The old keeper, Bram, left in the spring and did not say goodbye to anyone, which the village is still deciding how it feels about. My cottage is two rooms and a cold hearth. I swept it, set the kettle on, and walked to the vault before unpacking anything else, the way you check on a sleeping animal first. The lane smelled of rain coming. Everyone I passed looked at me the way you look at weather.
+
+You: Did Bram leave the vault's stores in good order when he left?
+
+DM: Yes, and more than you hoped.
+
+You: How many households in Alderhollow?
+
+DM: 19. (Rolled on a d20.)
+
+You: Day 1, evening. The vault door is stiff with disuse but it opened, and what Bram left behind him is better than the village dared tell me: every bin full, every sack labeled in his small square hand, the ledger complete to his last week, and a note on top of the barley bin that says only 'seed is a promise, keep it dry.' Nineteen households eat from that room if the winter is hard. He did not say goodbye to anyone, but he said it to the seed. I have eaten bread and cheese by my cold hearth and the kettle has decided it likes the place. Tomorrow I take the full inventory, bin by bin. A keeper should know exactly what she is keeping.
+
+You: Day 2. Inventory day, which is to say a day of counting in the cold with numb fingers, smelling each bin for damp and turning the seed over in my palms the way Bram taught his hands to. Grain keeps or it doesn't, and a keeper's eyes can lie to her out of hope, so I did the germination test the slow way, on wet cloth, the way it has to be done.
+
+You: Check: Tending (+2) on a d12, moderate, target 7.
+
+DM: Rolled 9 + 2 = 11 against target 7. Success.
+
+You: Day 2, afternoon. The count is good and I trust it: the cloth sprouted strong, bin after bin, and what I have written in the ledger is the truth as hands can find it. That was the morning. The afternoon brought Marta, who keeps the mill and most of the village's opinions, with her sleeves already rolled. Her own seed plot flooded in the spring and she has come, early and proud about it, to ask the vault for seed grain now rather than at planting, because she does not trust spring to be kinder. It is not an unreasonable ask and it is not a small one. I offered half of what she wanted, as a loan against spring's threshing, with the rest held for the village if the winter turns. The offer was mine to make. What she does with it is not mine to say.
+
+You: Will Marta accept the half-measure loan on spring terms?
+
+DM: No, and it is worse than you hoped.
+
+You: Day 2, evening. She refused it, all of it, and not quietly. A half-loan from the new keeper, she said, in the doorway, at a volume meant for the lane, is what you offer a tenant you expect to fail, and Marta of the mill has never failed anyone in Alderhollow. She went home with nothing and told the lane most of it on her way. I stood in the vault doorway with my ledger under my arm feeling every one of my two days here. The offer was fair. Fair had nothing to do with it. Nineteen households, and the first story any of them will tell about me is this one.
+
+You: Day 3. Rain, the steady kind that means the river will be up by Sunday. At the well this morning the talk went careful when I came near, the way talk does. I drew my water and did not pretend not to notice; pretending is a debt too. The vault is dry, the seed is sound, the ledger is true, and my name in this village is currently a story about a doorstep. Both of those are facts I have to keep. Tomorrow I will walk to the mill myself, not send word, and stand in her doorway the way she stood in mine. What happens there is not mine to decide tonight. The kettle is on. The rain is doing its work on the lane. This is where the life pauses.
+
+You: Day 4. The rain has thinned to a drizzle that can't decide. Alderhollow is getting on with itself this morning in ways that have nothing to do with me: the Hobb family has the last of their hay in under tarps and are arguing cheerfully about whose fault the wettest bale is; someone has chalked a tall mark on the mill wall where last year's flood reached, and someone else — a smaller hand — has chalked a hopeful one below it. The mill race is running high and loud. Marta's world is working at full strength whether or not I walk into it. I keep turning over what I wrote on Day 2, that she refused out of pride. That was my guess dressed as knowledge. I do not actually know why she refused. I know what she said, and I know the lane heard it.
+
+You: Will the river flood the low plots tonight?
+
+DM: Yes, and more than you hoped.
+
+You: Day 4, midday. The river's answer is yes, and not a small yes: by noon the water was at the lower chalk mark and behaving like it had somewhere to be. My errand to the mill changed shape on the walk. An apology can wait for dry ground; a warning can't, and Marta's grain sacks sit closer to the race than anything else in the village. I went at a run with the news and my apology still in my mouth, unspoken, which is a strange way to arrive in a doorway: empty-handed, out of breath, saying 'the river, Marta, tonight, the low side' before anything about doorsteps or loans.
+
+You: Marta takes my warning in time and lets me work beside her to get the sacks up above the waterline before dark.
+
+DM: No, your character fails.
+
+You: Day 4, evening. She took the warning. She did not take me. 'Then run back and mind your own stores, keeper,' she said, not cruelly, the way you speak to weather, and she called the Hobb boys down from their hay with a voice that carried the lane, and the three of them raised her sacks while I stood in the mill yard holding nothing. They got all of it up but the last row. The last row stands in two inches of brown water tonight because there were three pairs of hands she trusted and not four. I do not know if that was pride, or mine she was refusing, or something older than me that I haven't been told. I know the grain is wet. I walked home past the chalk marks with my apology still exactly where it was at breakfast.
+
+You: Day 5. The river took the low plots in the night, as promised, and gave them back by morning mud-colored and quiet. The vault never got wet; Bram built its floor a foot higher than anyone alive can explain needing, and I have stopped wondering if he knew things. The village smells of wet hay and woodsmoke. Marta's last row is spread on every flat stone behind the mill to dry, and half the village walks around it like it's a sleeping animal. She has not come to the vault. I have not gone back to the mill. The seed is a promise and I kept it dry, and there is a debt in this village that isn't grain and isn't mine alone anymore, and it is still, tonight, unpaid. The kettle is on. This is where the life pauses.
+
+You: The flood did lasting damage to the Hobb farm's stores.
+
+DM: Yes.
+
+You: Day 6, morning. The world took its turn before I was awake, and I learned it the way you learn anything here: at the pump, from two women filling buckets, in the middle of another conversation. The flood got into the Hobb stores after all — not the house, the stores: their winter barley, standing in the low shed nobody thought the water could reach twice in one year. It reached. The Hobbs, who lent Marta their hands and their boys two days ago, are now the household with the loss. Nobody said the word vault. They didn't have to. I opened the stores with the number 19 in my head and the Hobbs somewhere inside it, and I noticed I was already doing arithmetic I have no right to finish alone.
+
+You: Day 6, afternoon. I walked to the mill in dry weather with empty hands on purpose. Marta was turning the last row's grain on its stones, a fork moving in a rhythm that said she would not stop it for me. I said what I came to say, standing back from her work: that I was sorry for the doorway, for naming half an amount in front of the lane as if her need were a negotiation; that the amount was never the insult, the audience was; and that I should have come to her door first instead of letting her stand in mine. I did not mention the wet row. It was drying between us and it could speak for itself.
+
+You: Marta accepts Nova's apology, and they part on working terms again.
+
+DM: Yes, your character succeeds.
+
+You: Day 6, evening. She worked through the whole of it, the fork never stopping, which I have decided to take as its own kind of listening. When I finished she was quiet long enough that I heard the race again. Then: 'You offered me half a loaf in front of the whole lane, keeper. A person can't eat half a loaf standing up.' A pause. 'Come Thursday and we'll talk about the spring properly. At my table.' Not forgiveness, exactly — an appointment, which in Marta's economy may be worth more. The row between us went on drying. I walked home in the long light with the debt changed shape: not paid, not forgiven, scheduled. It is a better shape.
+
+You: How many d20 households in Alderhollow that lost stores to the flood?
+
+DM: 6. (Rolled on a d6.)
+
+You: Day 7. The village did its own counting today, the way villages do, and by evening the tally was common knowledge the way weather is: six households lost stores to the flood. Six of nineteen. Not a catastrophe. A third of the winter, re-divided in one night among everyone. My day's work was the question underneath the tally: seed is not stores, and the vault's promise is about spring, so I went lane to lane with my notebook asking the only question I am actually for — not what did you lose, but does your seed live? Mostly it does; seed hangs high or keeps in the dry byre. Two households are doubtful and I have written their names where I will see them at breakfast. Nobody performed gratitude or despair for me. People were mostly annoyed at the mud, which I have come to believe is what resilience actually looks like from inside a village.
+
+You: A traveler comes down the north road into Alderhollow today.
+
+DM: Yes, though not completely.
+
+You: Day 8, morning. The world's turn, reported to me by a boy who had it from his sister who had it from the carter: someone came down the north road at first light — and did not arrive. They are camped on the far bank where the flood took the bridge planks, visible from the lane's end as a small fire and a figure who waves, reasonably, when waved at. Yes, but not completely: a guest the village cannot yet reach, close enough to have a fire, too far to have a name. Thursday I sit at Marta's table. Two names wait in my notebook. And on the far bank of my own river, a stranger is making breakfast, in no hurry at all, as if the road were the point. The life pauses with all three.
+
+You: The stranger on the far bank is still camped there this morning.
+
+DM: Yes, and more than you hoped.
+
+You: Day 9, morning — Thursday. The world's turn reached me before the pump did: the stranger is still on the far bank, and more than still. She has a lean-to now, and a line of fish drying, and a coracle pulled up on her side of the river that she did not have on Tuesday. She could cross. She is mending the far bridge post instead, in no hurry anyone can detect, as if the crossing matters more than the arriving. The village has opinions and they are all different, which I have learned is what a village actually is. I walked the lane with the vault ledger under my arm and a respectably nervous stomach. Today is Marta's table.
+
+You: Day 9, afternoon. Her table is oak and older than the mill race, and she fed me before any business, barley soup with the top of the milk in it, which in Marta's economy I believe is a treaty instrument. Only then the ledger. I set out what I came with: the full amount she first asked, on spring terms, witnessed; the vault's seed held apart for the two households whose seed may not have lived, named in the book where she could see them; and the Hobb stores entered as the village's problem, not hers to carry for having helped. 'You've learned to bring the whole loaf,' she said. 'Mostly I've learned whose table it gets eaten at,' I said, and she laughed, once, like a door unlatching.
+
+You: Marta and Nova settle the spring loan on fair terms at her table.
+
+DM: The oracle will not decide this one. Roll for it. Roll a d10 (moderate, target 6). Add your relevant skill bonus, then roll the check.
+
+You: Check: Listening (+1) on a d10, moderate, target 6.
+
+DM: Rolled 2 + 1 = 3 against target 6. Failure.
+
+You: Day 9, evening. And then it did not settle, and I am writing that down plainly because the afternoon deserves its truth alongside its soup. Two small points, I called them in my head, walking over. They were not small at her table. She would not have the Hobb stores written in my book as the village's problem, because a book outlives a season, she said, and she would not have her name read aloud in it next spring standing next to a debt that was never hers for the crime of lending her hands. She is right, and I knew she was right by the second cup, and knowing it did not finish the thing: the terms stand open, the book unsigned, the loan a conversation instead of a fact. She walked me to her door anyway. 'She mends a bridge from the wrong side,' she said of the stranger, looking at the far bank, 'or the right one. We'll know when someone's standing on it.' Some afternoons close and some only adjourn. Thursday adjourned. The kettle at home has my name on it, and the river is still between us and whoever she is, and the book will keep.
+

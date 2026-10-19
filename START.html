@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Quiet DM — a silent oracle for solo stories</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <aside id="sidebar">
+    <h1>Quiet DM</h1>
+    <p class="tagline">A silent dungeon master. It speaks only when asked.</p>
+    <button id="new-thread">+ New thread</button>
+    <ul id="thread-list"></ul>
+    <p class="storage-note">Your story saves in this browser, on this device. Export save makes a backup file you can keep or move.</p>
+    <div class="side-actions">
+      <button id="export-btn">Export save</button>
+      <button id="import-btn">Import save</button>
+      <input id="import-file" type="file" accept="application/json" hidden>
+      <button id="import-thread-btn">Import thread</button>
+      <input id="import-thread-file" type="file" accept="application/json" hidden>
+      <button id="log-btn">Export story log</button>
+      <button id="logall-btn">Export all logs</button>
+    </div>
+  </aside>
+  <main id="main">
+    <header id="thread-head">
+      <h2 id="thread-title">…</h2>
+      <span id="pending-note" class="pending" hidden></span>
+      <span class="head-buttons">
+        <button id="life-toggle" title="Life mode: this thread is one continuous life, lived day by day under the covenant in LIFE.md">Life mode: off</button>
+        <button id="day-btn" title="Begin the next day of this life (life mode)" hidden>New day</button>
+        <span id="day-label" class="day-label"></span>
+        <button id="export-thread-btn">Export thread</button>
+        <button id="rename-thread">Rename</button>
+        <button id="delete-thread">Delete</button>
+      </span>
+    </header>
+    <div id="error-note" class="error-note" role="alert" hidden></div>
+    <div id="save-warning" class="save-warning" role="alert" hidden>
+      <span>This browser couldn't save your story. Everything here is still on the page, but it will be lost if you close or refresh. Export your save now to keep it — the warning clears once saving works again.</span>
+      <button id="save-warning-export">Export save now</button>
+    </div>
+    <div id="backup-notice" class="backup-notice" role="alert" hidden>
+      <span id="backup-notice-text"></span>
+      <button id="backup-notice-download"></button>
+    </div>
+    <section id="messages" aria-live="polite"></section>
+    <section id="character-panel">
+      <div class="char-head">
+        <strong>Character</strong>
+        <span id="char-summary" class="char-summary"></span>
+      </div>
+      <div id="char-editor" class="char-editor" hidden>
+        <label>Name <input id="char-name" type="text" size="14"></label>
+        <button id="char-save-name">Save name</button>
+        <ul id="char-skills"></ul>
+        <label>Skill <input id="char-skill-name" type="text" size="12" placeholder="e.g. Climbing"></label>
+        <label>Bonus <input id="char-skill-bonus" type="number" value="0" step="1"></label>
+        <button id="char-add-skill">Add / update skill</button>
+      </div>
+      <button id="char-toggle">Define / edit character</button>
+    </section>
+    <section id="check-panel">
+      <div class="check-fields">
+        <label>Skill
+          <input id="ck-skill" type="text" placeholder="e.g. Climbing" size="12">
+          <select id="ck-skill-select" aria-label="Skill" hidden></select>
+        </label>
+        <label>Bonus <input id="ck-bonus" type="number" value="0" step="1"></label>
+        <label class="bonus-toggle"><input id="opt-bonus" type="checkbox" checked> Use skill bonuses</label>
+        <label>Die
+          <select id="ck-die"></select>
+        </label>
+        <label>Difficulty
+          <select id="ck-diff">
+            <option value="easy">Easy</option>
+            <option value="moderate" selected>Moderate</option>
+            <option value="hard">Hard</option>
+          </select>
+        </label>
+        <span id="ck-target" class="target"></span>
+        <button id="ck-roll">Roll check</button>
+      </div>
+      <div class="more-row">
+        <span class="more-label">Inspiration:</span>
+        <button class="inspire-btn" data-table="monster">Monster</button>
+        <button class="inspire-btn" data-table="class">Class</button>
+        <button class="inspire-btn" data-table="species">Species</button>
+        <button class="inspire-btn" data-table="quest">Quest</button>
+      </div>
+      <div class="more-row">
+        <label>How many <input id="hm-thing" type="text" size="16" placeholder="goblins in the cave"></label>
+        <label>on a
+          <select id="hm-die">
+            <option value="4">d4</option>
+            <option value="6" selected>d6</option>
+            <option value="8">d8</option>
+            <option value="10">d10</option>
+            <option value="12">d12</option>
+            <option value="20">d20</option>
+            <option value="100">d100</option>
+          </select>
+        </label>
+        <button id="hm-btn">Ask how many</button>
+        <button id="boon-btn">Ask for a blessing</button>
+        <span id="boon-note" class="boon-note"></span>
+      </div>
+    </section>
+    <footer id="composer">
+      <textarea id="input" rows="3" placeholder="Write your story… the DM will stay silent. Or describe an action and ask whether you succeed, or ask a plain yes-or-no question about the world."></textarea>
+      <div class="composer-buttons">
+        <button id="post-btn">Post to story</button>
+        <button id="ask-btn" class="ask">Ask: do I succeed?</button>
+        <button id="yn-btn">Ask a yes/no question</button>
+        <div class="lean-seg" role="group" aria-label="Lean for yes/no questions">
+          <span class="lean-label">Lean:</span>
+          <button type="button" class="lean-opt" data-lean="likely" aria-pressed="false">Likely</button>
+          <button type="button" class="lean-opt active" data-lean="" aria-pressed="true">None</button>
+          <button type="button" class="lean-opt" data-lean="unlikely" aria-pressed="false">Unlikely</button>
+        </div>
+      </div>
+    </footer>
+  </main>
+</div>
+<script src="engine.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

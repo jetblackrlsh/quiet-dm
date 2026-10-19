@@ -1,0 +1,66 @@
+# The Golden Fleece
+
+Character: Pell — Shepherding +2, Sneaking +1, Climbing +1, Nerve +0
+
+[DM] I am a quiet dungeon master. Write your story here as long messages, and I will stay silent. When you want an answer, ask whether your character succeeds and I will consult the oracle. Sometimes the oracle refuses to decide, and then we roll for it. You may also ask me plain yes-or-no questions, ask how many of a thing there are, request inspiration, and, after a success, ask for a blessing.
+
+You: Inspiration: a quest, please.
+
+DM: Quest: Fetch the golden fleece.
+
+You: Inspiration: a monster, please.
+
+DM: Monster: Ogre
+
+You: Inspiration: a species, please.
+
+DM: Species: Human
+
+You: Every valley has one thing the winter cannot take, and ours was the fleece of old Tam, the ram who outlived three shepherds. It grew gold because Tam grazed the high meadow where the lightning had kissed the grass, or so my grandmother said, and when it was shorn each spring the wool kept the whole flock warm just by hanging in the barn. Then the ogre came down from the scree, took the fleece for a blanket, and took Tam too, for company or for supper. The flock has shivered two winters since. I am Pell. I shear, I mend fences, I know every sheep in this valley by her face. Tonight I go up the scree with my shears on my belt and my grandmother's bell in my pocket, to fetch the golden fleece home.
+
+You: Does the ogre sleep through the middle of the day?
+
+DM: No, and it is worse than you hoped.
+
+You: My grandmother laughed at me over her tea. 'Sleep at midday? Girl, he sits in his doorway all day long watching the valley like a king on a stool. He sleeps the true sleep only in the deep of the night, and do you know what he sleeps wrapped in?' I knew. So the plan turned itself inside out: not a bright noon errand but a night climb, in the dark hours, with the whole valley's sheep-feet knowledge in my legs. Before I left she counted on her fingers the ewes the valley has lost since the fleece went. I made her stop. I already knew the winter arithmetic by heart.
+
+You: How many goats the ogre keeps in the pen beside his hut?
+
+DM: 6. (Rolled on a d6.)
+
+You: I went up at the hour when the light goes blue. The scree above the valley is a road I have climbed a hundred times after stray lambs, and my feet knew it even in the dark. The ogre's hut sat against the cliff with a pen beside it, and in the pen, goats. I counted them against the sky as I came close, the way you count anything you may have to run past twice.
+
+You: I slip over the pen fence and cross the yard to the hut door without waking the goats.
+
+DM: The oracle will not decide this one. Roll for it. Roll a d8 (easy, target 4). Add your relevant skill bonus, then roll the check.
+
+You: Check: Sneaking (+1) on a d8, easy, target 4.
+
+DM: Rolled 2 + 1 = 3 against target 4. Failure.
+
+You: My boot came down on a loose stone at the fence's foot and the stone clicked, loud as a knuckle on a door. Six goat heads came up together. Six pairs of eyes shone at me in the dark, and the nearest one drew breath the way goats do before they complain to the whole world about it.
+
+You: I hum the low settling song and talk the goats down before the noise reaches the hut.
+
+DM: Yes, your character succeeds.
+
+You: The song is older than the valley road and every herd animal in three parishes knows it. Six heads lowered by degrees, ear-flick by ear-flick, and the goat who had drawn breath let it out as a sigh and lay down in the straw. I stood in the middle of the pen with my heart going like a drum and thought: whatever watches over shepherds, let it stay a moment longer.
+
+You: May I have a blessing for what I just did?
+
+DM: Yes. The next time you roll Sneaking, add +1.
+
+You: The hut door was a hide and a prayer. Inside, the ogre lay along his bench like a fallen tree, and the fleece covered him shoulder to knee, glowing faintly in the hearth's last embers the way it always had in our barn. Old Tam's fleece. Two winters of shivering lambs. It was coming home tonight or I was staying for breakfast. I knelt where the fleece's edge hung nearest the floor and began, one finger's width at a time, to roll it off him. (Sneaking, with the blessing on it, against a steady hand.)
+
+You: Check: Sneaking (+2, blessing included) on a d12, moderate, target 7.
+
+DM: Rolled 5 + 2 = 7 against target 7. Success.
+
+You: The fleece came free a finger's width at a time, and it was heavier than memory and warmer than any blanket has a right to be. I had it bundled in my arms when the cold reached the ogre's skin and he made a sound, low down in him, like a hill deciding something. I went out through the hide door at a walk, because running downhill in the dark is a fool's bargain, and the bundle rode on my shoulder like a rescued lamb.
+
+You: I get down the scree and out of his valley before he is fully awake and after me.
+
+DM: No, and something worse happens.
+
+You: He did not chase me. That was the worse thing. Halfway down the scree I heard the roar and turned, expecting the hill to come down on me, and instead saw his hut bloom with light: in rising, in the dark, he had put a shoulder through his own hearth-wall, and the sparks had found the thatch. He stood in the doorway in the firelight, enormous, watching me go, and did not lift a hand. The fleece rode warm on my shoulder all the way down. By dawn it hung in our barn again and the lambs pressed against the rail beneath it like it was a second sun. I am glad. I am also the girl who burned a lonely thing's house down around him in the middle of winter, and no oracle is going to carry that one for me. Come spring, when the shearing is done, I will take a blanket of plain gray wool up the scree and leave it at his door. A fleece for a fleece is too much to owe, and I intend to spend a while being even.
+

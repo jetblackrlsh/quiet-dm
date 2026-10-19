@@ -1,0 +1,5 @@
+node_modules/
+/saves/
+*.pending
+*.lock
+.DS_Store

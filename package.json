@@ -1,0 +1,1 @@
+{"engines":{"node":">=20"},"license":"MIT","name":"quiet-dm","private":true,"scripts":{"build":"node tools/build.mjs","test":"node --test"},"type":"module","version":"1.20.0"}
